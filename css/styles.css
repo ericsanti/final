@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Mouse Memoirs', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.body-bg-image {
+    background-image:url(https://media.architecturaldigest.com/photos/626aab7c3eb88382e12961b4/4:3/w_4211,h_3158,c_limit/16%20Backyard%20Vegetable%20Garden%20Ideas.jpg) ;
+    background-size: cover;
+    background-position: center;
+    color: rgb(240, 232, 221);
+}
+.navbar-nav {
+    
+}
+#jumboH1 {
+    color: rgb(2, 2, 2);
+}
+#jumboP {
+    color:rgb(250, 249, 252);
+}
